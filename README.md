@@ -3,5 +3,8 @@
 ## Introduction
  this is example to show the git repository and various commands of webproject
 ## Purpose
-## How to contribute
+  the main purpose of this is provide simple examples for git training
 ## deployment
+   this is simple webproject deployment can be web server or local file system
+## How to contribute
+
