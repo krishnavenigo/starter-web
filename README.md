@@ -7,6 +7,8 @@
 ## deployment
    this is simple webproject deployment can be web server or local file system
 ## How to contribute
+### thanks
+thanks for practice
 
 ###
 copyright
